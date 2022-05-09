@@ -1,0 +1,6 @@
+LIBRARY	"SemiFullScreenMod"
+EXPORTS
+	CPlApplet = CPlApplet @ 1
+    OnInitialize = On_初期化 @ 2
+    OnAfterChangeWindowSize = On_解像度変更直後 @ 3
+    OnMainGameStart = On_メインゲーム開始 @ 4
